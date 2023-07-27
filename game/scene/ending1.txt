@@ -1,0 +1,8 @@
+bgm:guojiabgm1.mp3;
+changeBg:endingbg.jpg;
+intro:我冷笑一聲，嬾得理他，|揪著他的衣領，將人猛地拽起——;
+intro:趕緊將這人帶回去，省得在外頭丟人現眼。||;
+intro:……對了，等回去後，|定要罰他抄寫陸遜的密探守則百條——|——抄他個一百遍！;
+changeFigure:ending1.png -id=ending1;
+setAnimation:move-front-and-back -target=ending1;
+end;

@@ -1,0 +1,12 @@
+bgm:guojiabgm1.mp3;
+miniAvatar:wang.png;
+廣陵王:本王今日就小懲大誡一番。;
+廣陵王:下次小心點，欠了債后，可別再落到我的手裏——;
+miniAvatar:none;
+:;
+intro:我將他拉起，胡亂裹上衣服，轉身去找老闆娘結賬。;
+changeBg:endingbg.jpg -next;
+changeFigure:ending2.png -id=ending2;
+playEffect:rouruoshusheng.mp3;
+setAnimation:move-front-and-back -target=ending2;
+end;

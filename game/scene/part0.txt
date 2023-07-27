@@ -1,0 +1,15 @@
+bgm:guojiabgm1.mp3;
+changeBg:full_fullcloth_closemouth1.jpg;
+miniAvatar:huojia.png;
+郭嘉:……~;
+changeBg:full_fullcloth_halfopenmouth1.jpg;
+郭嘉:你來了呀~殿下~~~ -nilaileya.mp3;
+changeFigure:none;
+miniAvatar:wang.png;
+廣陵王:郭嘉，你假借綉衣樓的名義賒賬，一千白金幣，膽子可真是不小。;
+廣陵王:惹惱了本王，你可有覺悟？;
+miniAvatar:huojia.png;
+郭嘉:哎呀呀，殿下難道是想，懲戒我這個，手無縛鷄之力的柔弱書生……？ -ayaya.mp3;
+miniAvatar:none;
+:;
+choose:懲戒！當場懲戒！:part1.txt|速度帶回綉衣樓整肅:ending1.txt;

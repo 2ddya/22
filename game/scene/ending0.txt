@@ -1,0 +1,10 @@
+bgm:guojiabgm1.mp3;
+miniAvatar:wang.png;
+廣陵王:抱歉，我不認識此人，告辭——;
+miniAvatar:none;
+:;
+intro:趁對方未反應過來，我揮一揮衣袖，迅速撤離了現場。;
+changeBg:endingbg.jpg -next;
+changeFigure:ending0.png -id=ending0;
+setAnimation:move-front-and-back -target=ending0;
+end;

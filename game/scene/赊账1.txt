@@ -1,0 +1,2 @@
+bgm:guojiabgm1.mp3;
+角色名，留空以继承上句:aaaaaaa;
