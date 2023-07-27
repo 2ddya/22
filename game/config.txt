@@ -1,5 +1,5 @@
-Game_name:惩戒郭奉孝_代号鸢;
+Game_name:懲戒郭奉孝_代號鳶同人游戲;
 Game_key:1134cd78efddbba;
-Package_name:;
+Package_name:playguojia_ashes_of_the_kingdom;
 Title_bgm:guojiabgm1.mp3;
 Title_img:guojiagalgame.jpg;
