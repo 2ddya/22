@@ -1,4 +1,4 @@
-Game_name:欢迎使用WebGAL！;
+Game_name:惩戒郭奉孝_代号鸢;
 Game_key:1134cd78efddbba;
 Package_name:;
 Title_bgm:guojiabgm1.mp3;

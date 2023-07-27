@@ -1,5 +1,6 @@
 bgm:guojiabgm1.mp3;
 changeBg:full_fullcloth_closemouth1.jpg;
+unlockCg:full_fullcloth_closemouth1.jpg -name=fullcloth_begining;
 miniAvatar:huojia.png;
 郭嘉:……~;
 changeBg:full_fullcloth_halfopenmouth1.jpg;
