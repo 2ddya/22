@@ -11,7 +11,7 @@ miniAvatar:huojia.png;
 miniAvatar:wang.png;
 廣陵王:……;
 miniAvatar:none;
-:我的游移到他胸前。;
+:我的手游移到他胸前。;
 changeBg:midhalf_fullcloth_halfopenmouth2.jpg;
 :郭嘉的衣襟微敞。;
 :許是酒喝得多了，起伏的肌膚透著淡淡的紅暈。;
